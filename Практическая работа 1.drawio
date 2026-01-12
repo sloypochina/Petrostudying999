@@ -19,6 +19,9 @@
         <mxCell id="WjNQL-o9nJpBm50hLZyI-9" edge="1" parent="1" source="WjNQL-o9nJpBm50hLZyI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="WjNQL-o9nJpBm50hLZyI-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-1" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.storage.diskette;" value="" vertex="1">
+          <mxGeometry height="50" width="51" x="370" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
