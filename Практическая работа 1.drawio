@@ -1,26 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Страница-1" id="2SqNn2vKjaPRNGS_Sb7s">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#BEA0A0" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WjNQL-o9nJpBm50hLZyI-3" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="550" as="geometry" />
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-28" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BMJoJHt5bukPVFgDxCwD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.5" y="110" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WjNQL-o9nJpBm50hLZyI-10" edge="1" parent="1" source="WjNQL-o9nJpBm50hLZyI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WjNQL-o9nJpBm50hLZyI-3">
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-48" edge="1" parent="1" source="BMJoJHt5bukPVFgDxCwD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BMJoJHt5bukPVFgDxCwD-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WjNQL-o9nJpBm50hLZyI-7" parent="1" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=nexus_1010;fillColor=#FAFAFA;strokeColor=#005073;" value="" vertex="1">
-          <mxGeometry height="50" width="64" x="390" y="270" as="geometry" />
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-2" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" value="Роутер" vertex="1">
+          <mxGeometry height="80" width="80" x="355.5" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="WjNQL-o9nJpBm50hLZyI-8" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="110" y="585" as="geometry" />
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-3" parent="1" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" value="Телефон 2" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="WjNQL-o9nJpBm50hLZyI-9" edge="1" parent="1" source="WjNQL-o9nJpBm50hLZyI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="WjNQL-o9nJpBm50hLZyI-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435.5" y="300" as="sourcePoint" />
+            <mxPoint x="605.5" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="BMJoJHt5bukPVFgDxCwD-1" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.storage.diskette;" value="" vertex="1">
-          <mxGeometry height="50" width="51" x="370" y="470" as="geometry" />
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-29" edge="1" parent="1" source="BMJoJHt5bukPVFgDxCwD-2" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="320" as="sourcePoint" />
+            <mxPoint x="550" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-36" parent="1" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" value="Телефон 3" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-37" parent="1" style="points=[[0,0.58,0],[0.09,0.58,0],[0.36,0.39,0],[0.64,0.195,0],[0.91,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0,1,0],[0.09,1,0],[0.36,1,0],[0.64,1,0],[0.91,1,0],[0,0.79,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wifi_indicator;fillColor=#005073;strokeColor=none;" value="Провайдер" vertex="1">
+          <mxGeometry height="50" width="50" x="364" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-38" parent="1" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png" value="2 компьютер" vertex="1">
+          <mxGeometry height="80" width="80" x="470" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-39" edge="1" parent="1" source="BMJoJHt5bukPVFgDxCwD-2" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.175;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" target="BMJoJHt5bukPVFgDxCwD-38" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364" y="330" as="sourcePoint" />
+            <mxPoint x="490" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435.5" y="280" as="sourcePoint" />
+            <mxPoint x="606" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-43" parent="1" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" value="Телефон 1" vertex="1">
+          <mxGeometry height="80" width="80" x="580" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-45" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;" value="Телевизор" vertex="1">
+          <mxGeometry height="32" width="39" x="410" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-46" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation;" value="Компьютер 1" vertex="1">
+          <mxGeometry height="56" width="53" x="110" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="BMJoJHt5bukPVFgDxCwD-49" edge="1" parent="1" source="BMJoJHt5bukPVFgDxCwD-2" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0.156;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" target="BMJoJHt5bukPVFgDxCwD-45" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364" y="320" as="sourcePoint" />
+            <mxPoint x="458" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
